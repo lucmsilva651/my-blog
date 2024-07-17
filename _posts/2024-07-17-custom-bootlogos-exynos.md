@@ -87,6 +87,10 @@ You can pick the file named **"logo.jpg"** and drag it to any folder and modify 
 
 Once you edited and saved the file following the rules and doing everything right, you can drag again the bootlogo JPG file that you made into the **"up_param.bin"** file.
 
+Now, you need to "compile" your .tar image with the custom bootlogo that you made. This is relatively simple, as you will only need some clicks and patience.
+
+Right-click your modified ".img" file, and use the 7-Zip **"Add to archive..."** function. As you will find something similar to **"Format of the compressed file"**, you will select the "tar" option and press OK.
+
 <hr>
 
 ## Outro
