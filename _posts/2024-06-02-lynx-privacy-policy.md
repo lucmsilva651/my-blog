@@ -20,6 +20,9 @@ Before using, you will need to read the privacy policy to understand where your 
 5. Blocklist System
 - We have implemented a blocklist system via user ID. If a user generates inappropriate content or misuses the bot, they will be permanently blocked. If the use of alternative or secondary accounts by a blocked user is detected, those accounts will also be blocked.
 
+5.1. SpamWatch API
+- We have implemented a integration with the SpamWatch API to block banned users from there to use the bot. If you are banned from SpamWatch, you cannot use the bot.
+
 6. Source Code
 - If you wish to review the source code, please visit the Lynx GitHub Repository (https://github.com/lucmsilva651/lynx/).
 
