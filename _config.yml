@@ -118,6 +118,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
+    theme: noborder_dark
     repo: lucmsilva651/blog.eleu.me # <gh-username>/<repo>
     repo_id: R_kgDOMXvd3A
     category: General
