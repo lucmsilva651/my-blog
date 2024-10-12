@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Blog released - first post
+description: This is the first post of this blog.
 ---
 Hi fellas!
 
@@ -10,8 +10,9 @@ If you don't know anything about me, you can read my [biography][bio] that I als
 
 But for now, that's it. Bye.
 
-{% highlight javascript %}
-console.log("I love y'all guys!")
-{% endhighlight %}
+``` javascript
+console.log("I love y'all guys!");
+```
+{: file="love.js" }
 
 [bio]: https://bio.eleu.me

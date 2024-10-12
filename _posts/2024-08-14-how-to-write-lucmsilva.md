@@ -1,6 +1,7 @@
 ---
-layout: post
 title: How to Nail the Spelling of "lucmsilva" Every Single Time!
+description: Please, always call me like that.
+hidden: true
 ---
 We’ve all been there—typing out a name we’re not super familiar with and totally botching it. But here’s the thing: when someone gets my username wrong, it’s like nails on a chalkboard for me. So, to save both of us from that horror, let me show you how to spell "lucmsilva" like a pro!
 
