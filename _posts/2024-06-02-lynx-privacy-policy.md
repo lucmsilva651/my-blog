@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Privacy Policy for Lynx Telegram Bot (@LynxBR_bot)
+description: This is the Privacy Policy for my bot, Lynx. Read it carefully to understand where your data goes when using this bot.
 hidden: true
 ---
 Before using, you will need to read the privacy policy to understand where your data goes when using this bot. If you don't agree with any of these terms, stop using the bot.
