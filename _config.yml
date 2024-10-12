@@ -71,6 +71,8 @@ analytics:
     domain: # fill in your Matomo domain
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
+  fathom:
+    id: # fill in your Fathom Site ID
 
 # Pageviews settings
 pageviews:
@@ -127,7 +129,7 @@ comments:
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
-    reactions_enabled: 0 # optional, default to the value of `1`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -192,10 +194,6 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
 
 sass:
   style: compressed
