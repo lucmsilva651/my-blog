@@ -1,6 +1,7 @@
 ---
 title: Comments are now enabled with Giscus
 description: I have enabled comments here on my blog with Giscus!
+pin: true
 ---
 Hi everyone! I'll do some things here on the blog, and now I have enabled comments here on my blog with Giscus! You will need to login with GitHub to make comments, but it's easy and I think you do it in less than a minute.
 
